@@ -28,4 +28,4 @@
 ------------
 
 
-![alt text](LINK)
+![alt text](https://raw.githubusercontent.com/teta2064/jan2022/jan2022/30-jan-2022_flow.png)
